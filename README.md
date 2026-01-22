@@ -30,7 +30,7 @@ Recommended BIOS configuration:
 
 1. Create macOS installer bootlable USB using **Olarilia(recommended) macOS Vanilla images or any other installer**
 2. Mount EFI partition on USB
-3. Replace EFI with this repository’s EFI folder
+3. Replace EFI with this repository’s EFI folder or download from [here](https://github.com/Vishal9485/Hackintosh-Ryzen5-5600G-iGpu-AsrockB450/releases/tag/v1)
 4. Edit `config.plist`:
    - Update **SMBIOS**
    - Generate new **Serial / MLB / UUID**
